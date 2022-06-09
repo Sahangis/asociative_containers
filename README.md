@@ -12,6 +12,8 @@ programa kuri naudoja associative konteinerius, jog išrinktų iš teksto pasika
 
 4. Tekstas.txt - duomenų failas
 
+5. html - doxygen documentacija
+
 ## veikimo principas
 
 1. programa nuskaito duomenis po eilute.
